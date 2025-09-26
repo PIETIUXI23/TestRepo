@@ -1,0 +1,12 @@
+Daily Standup Report
+Date: 2025-09-25
+
+Yesterday I worked on:
+  1. first
+
+Today I plan to:
+  - Continue working on pending tasks.
+  - Review code, write tests, or deploy as needed.
+
+Blockers (if any):
+  - None at the moment.

@@ -1,0 +1,7 @@
+Daily Standup Report - 2025-09-25
+
+Yesterday: Completed initial work on [brief, specific description of "first" task].
+
+Today:  I will continue working on outstanding tasks, including code review, test writing, and deployment as required.
+
+Blockers: None.
